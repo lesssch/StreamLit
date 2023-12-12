@@ -73,3 +73,6 @@ st.divider()
 st.write('**Распределение флага пенсионера к таргету**')
 st.image(gender_age)
 st.divider()
+
+st.write('**Таблица с данными**')
+st.write(merged_data)
