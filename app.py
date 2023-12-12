@@ -1,9 +1,7 @@
 import pandas as pd
-import seaborn as sns
 import numpy as np
-import matplotlib.pyplot as plt
 import streamlit as st
-import PIL as Image
+from PIL import Image
 
 
 D_target = pd.read_csv("./datasets/D_target.csv")
